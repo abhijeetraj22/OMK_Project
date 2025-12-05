@@ -140,14 +140,6 @@ Start → Upload Excel → Load Sheets → Apply Grace Logic → Validate → Ex
 | Employee ID | Name          | Role    | In Time | Out Time |  MoT | Att |  Late   | 
 | ----------- | ------------- | ------- |-------- | -------- | ---- | --- |  -----  |
 
----
-
-# 🔗 Direct Repo Links
-
-| Tool                | Repo URL                                                                                                       |
-| ------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 📘 CBSE Result Soft | **[https://github.com/abhijeetraj22/OMK_CBSE_RESULT](https://github.com/abhijeetraj22/OMK_CBSE_RESULT)**       |
-| 📊 Attendance Tool  | **[https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI](https://github.com/abhijeetraj22/OMK_ATTENDANCE_GUI)** |
 
 ---
 
